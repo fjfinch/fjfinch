@@ -1,5 +1,5 @@
 # Hi
-I..
+Sooo, I:
 * Love Linux
 * Hate Windows. Except you Kerberos, I like you
 * Like exploiting Kerberos
