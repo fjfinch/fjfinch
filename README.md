@@ -1,2 +1,1 @@
-# Hi
-I like exploiting Kerberos.
+# I like exploiting Kerberos.
