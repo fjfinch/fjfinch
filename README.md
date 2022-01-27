@@ -1,1 +1,1 @@
-# Always continuous learning
+# Nullum Crimen Sine Lege
