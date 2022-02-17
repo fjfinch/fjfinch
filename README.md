@@ -1,2 +1,1 @@
-1. Scientia Potentia Est
-2. Nullum Crimen Sine Lege
+Nullum Crimen Sine Lege
