@@ -1,1 +1,1 @@
-# Nullum Crimen Sine Lege
+# Si vis pacem, para bellum
